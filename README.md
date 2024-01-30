@@ -1,1 +1,1 @@
-![my diagram](./S3.drawio.svg))
+![my diagram](./S3.svg)
