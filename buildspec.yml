@@ -4,3 +4,6 @@ phases:
   post_build:
     commands:
       - aws s3 sync . s3://testsync-1234124124 --delete
+artifacts:
+  files:
+    - '**/*'
