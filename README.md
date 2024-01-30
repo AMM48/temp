@@ -1,1 +1,1 @@
-![my diagram](./S3-Static-Website.drawio.svg (1))
+![my diagram](./S3.drawio.svg))
