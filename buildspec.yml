@@ -1,6 +1,0 @@
-version: 0.2
-
-phases:
-  post_build:
-    commands:
-      - aws s3 sync ./A/B/C/ s3://testsync-1234124124 --delete
